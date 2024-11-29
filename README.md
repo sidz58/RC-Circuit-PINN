@@ -42,6 +42,8 @@ This integration of both data and physics enables more accurate predictions, eve
 1. **Input and Ground Truth**:
    - **Green Plot**: Custom pulse wave voltage input with variable rise/fall rate, delay, amplitude, and periodicity.
    - **Blue Plot**: Voltage across the capacitor (ground truth) for charging/discharging cycles (solved using GEKKO).
+   ![image](https://github.com/user-attachments/assets/8df104df-9392-4d83-871a-ae6f59748d82)
+
 
 2. **Flexible Model Design**:
    - Models with variable nodes per layer and hidden layers were tested.
@@ -57,8 +59,12 @@ This integration of both data and physics enables more accurate predictions, eve
 ---
 
 ### Training Overview
-- On the left: Visual depiction of the training process.
-- Above: Hyperparameter configuration yielding the lowest loss.
+- Visual depiction of the training process.
+- ![image](https://github.com/user-attachments/assets/cb505bad-29d1-4857-9d02-5a7dcb9adbd5)
+
+- Hyperparameter configuration yielding the lowest loss.
+- ![image](https://github.com/user-attachments/assets/adcbdda2-850b-48f8-beba-18db70630c2e)
+
 
 ---
 
