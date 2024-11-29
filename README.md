@@ -1,11 +1,7 @@
-# RC-Circuit-PINN
 
-# Basic Implementation of PINN: RC Circuit
+# Implementation of PINN to solve an RC Circuit
 
 **Author**: Siddh Singhal  
-**Roll Number**: 23115142  
-**Email**: siddh_s@ee.iitr.ac.in  
-
 ---
 
 ## Introduction
@@ -13,6 +9,10 @@
 In this implementation, we explore the use of **Physics-Informed Neural Networks (PINNs)** to model and predict the voltage across a capacitor in a simple electrical circuit. Unlike traditional neural networks that rely purely on data, PINNs incorporate known physical laws, such as differential equations, to enhance learning. 
 
 This integration of both data and physics enables more accurate predictions, even with limited data. The main goal was to understand the working of a PINN by applying it to an RC circuit, where the voltage across the capacitor is governed by a first-order differential equation. Along the way, I learned to use various supporting libraries, such as **GEKKO** and **HyperOpt**, and how to design a flexible pipeline according to different requirements.
+
+#### In this project, we find the voltage across the capacitor in a simple RC Circuit
+![image](https://github.com/user-attachments/assets/db29814a-429a-47d5-aab4-e42b82e532c6)
+
 
 ---
 
