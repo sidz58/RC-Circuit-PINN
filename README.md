@@ -76,5 +76,4 @@ This integration of both data and physics enables more accurate predictions, eve
 
 Thank you!  
 **Siddh Singhal**  
-Roll Number: 23115142  
-Email: siddh_s@ee.iitr.ac.in  
+Email: singhal.siddh@gmail.com 
